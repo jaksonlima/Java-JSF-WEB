@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.antlr.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.jpa.modelgen.processor.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.servlet.jsp.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-container-servlet.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-mvc-jsp.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jersey-mvc-jsp.jar/META-INF/taglib.tld" project="ReservaHL"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/cdi-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/ha-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.jms-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-media-json-jettison.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.batch-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.el.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-guava.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.resource-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-media-moxy.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.jpa.jpql.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-mvc-connector.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-media-json-processing.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-mvc.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/webservices.security.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.faces.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/META-INF/html_basic.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/META-INF/jsf_core.tld" project="ReservaHL"/>
+    </library>
+    <library class="facelet">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/META-INF/mojarra_ext.taglib.xml" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.faces.jar/META-INF/mojarra_ext.tld" project="ReservaHL"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-container-grizzly2-http.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.asm.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-common.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.ws.rs-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/mq/lib/jaxm-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.security.auth.message-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.jpa.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.management.j2ee-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-server.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.enterprise.concurrent.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-bean-validation.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.oracle.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.json.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-gf-cdi.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.servlet.jsp-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-media-sse.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/glassfish-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.security.jacc-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.inject.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-media-multipart.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.enterprise.deploy-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.interceptor-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.ejb-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-entity-filtering.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-media-json-jackson.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.mail.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.transaction-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.moxy.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.xml.registry-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jaxb-osgi.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.servlet.jsp.jstl-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.websocket-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/webservices-extra-jdk-packages.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/endorsed/javax.annotation-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-client.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.core.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jaxb-extra-osgi.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.persistence.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.servlet.jsp.jstl.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/c-1_0-rt.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/c-1_0.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/c.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/fmt-1_0-rt.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/fmt-1_0.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/fmt.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/fn.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/permittedTaglibs.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/scriptfree.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/sql-1_0-rt.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/sql-1_0.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/sql.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/x-1_0-rt.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/x-1_0.tld" project="ReservaHL"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javax.servlet.jsp.jstl.jar/META-INF/x.tld" project="ReservaHL"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/webservices-osgi.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/endorsed/jaxb-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/org.eclipse.persistence.dbws.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.servlet-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.enterprise.concurrent-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/weld-osgi-bundle.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-container-servlet-core.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/jersey-gf-ejb.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/bean-validator.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/javax.xml.rpc-api.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/endorsed/webservices-api-osgi.jar"/>
+  <path value="/home/operador/glassfish-4.1.1/glassfish/modules/webservices-connector.jar"/>
+ </paths>
+ <validation>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

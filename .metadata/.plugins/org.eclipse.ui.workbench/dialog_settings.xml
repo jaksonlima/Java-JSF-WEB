@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="925"/>
+		<item key="dialogWidth" value="735"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.views.ResourceNavigator"/>
+			<item value="org.eclipse.ui.navigator.ProjectExplorer"/>
+			<item value="org.eclipse.jdt.ui.JavaPerspective"/>
+			<item value="org.eclipse.jdt.ui.PackagesView"/>
+			<item value="org.eclipse.ui.views.ProgressView"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.perspectives"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="navi"/>
+			<item value="project"/>
+			<item value="java"/>
+			<item value="pa"/>
+			<item value="pro"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="284"/>
+		<item key="DIALOG_Y_ORIGIN" value="150"/>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="-91"/>
+		<item key="DIALOG_Y_ORIGIN" value="-226"/>
+		<item key="DIALOG_WIDTH" value="1145"/>
+		<item key="DIALOG_HEIGHT" value="892"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+	<section name="ImportExportAction">
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jpt.jpa.ui.wizard.newEntity"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jpt.jpa"/>
+			<item value="org.eclipse.jpt.jpa/org.eclipse.jpt.jpa.eclipselink"/>
+		</list>
+	</section>
+</section>
